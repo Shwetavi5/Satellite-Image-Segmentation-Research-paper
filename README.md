@@ -8,8 +8,8 @@ Solving the Satellite Image Segmentation problem using semantic segmentation tec
 
 process, the project uses some of the state-of-the-art deep learning models like Fully Convolutional Networks (FCN), U-NET, and LinkNet.
 
-**Figure 2**
-Images illustrate what satellite image segmentation looks like after building a model.
+**Figure 2** 
+ Images illustrate what satellite image segmentation looks like after building a model.
 # ![image](https://user-images.githubusercontent.com/89550139/145770394-10789009-e4c9-4a0b-8c53-807f82fca64f.png)
 
 
